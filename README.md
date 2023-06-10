@@ -19,5 +19,5 @@
 </div>
   
   ##
-  
+  ![Snake animation](https://github.com/alyssonrafael/alyssonrafael/blod/output/github-contribuition-grid-snake.svg)
   

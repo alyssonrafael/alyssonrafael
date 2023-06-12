@@ -3,7 +3,6 @@
 - 🎓cursando Ciência da Computação.
 - 📖 estudando front-end
 - 💬 Contate-me no e-mail: alyssonrafel11@gmail.com
-- 😄 Pronouns:Ele/Dele
 
 <div>
 <a href="https://github.com/alyssonrafael">

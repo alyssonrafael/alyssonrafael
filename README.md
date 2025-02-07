@@ -4,7 +4,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação. na UNIFAVIP.
-- 💼 Em busca do meu primeiro trabalho como desenvolvedor.
 - 🌱 Aprendendo mais sobre desenvolvimento web .
 
 ## Minhas Skills

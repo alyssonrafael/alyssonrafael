@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Alysson Rafael</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4C91E4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Amateur+Designer;Exploring+imagination+and+challenges" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4C91E4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Amateur+Designer;Navigate+imagination+and+challenges" alt="Typing SVG" />
 </p>
 
 ---

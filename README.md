@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4C91E4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Navigate+imagination+and+challenges;Software+Engineer" alt="Typing SVG" />
 </p>
----
 
 ## 👨‍💻 About Me
 
